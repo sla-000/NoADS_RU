@@ -12574,7 +12574,6 @@ _pagespeed_beacon?
 ||google.com/uds/stats?
 ||googleusercontent.com/tracker/
 ||id.google.*/verify/*.gif
-||s.youtube.com^
 ||s2.youtube.com^
 ||video-stats.video.google.
 ||www.google.*/imgevent?$script
